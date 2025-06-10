@@ -1,4 +1,4 @@
 # New Website
 Content coming soon.
 
-Meanwhile, check out my old site: lpcvoid.com
+Meanwhile, check out my old site: [lpcvoid.com](https://lpcvoid.com)
